@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -38,7 +38,7 @@
           <IdeaActionID>RefreshStackFrame</IdeaActionID>
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Refresh Stack Frame</Description>
-          <Count>8</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -65,12 +65,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '24416:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '24416:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
