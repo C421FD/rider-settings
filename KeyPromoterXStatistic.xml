@@ -49,6 +49,14 @@
           <Count>58</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Properties...">
+        <Item>
+          <IdeaActionID>EditPropertiesAction</IdeaActionID>
+          <ShortCut>'Alt+Enter'</ShortCut>
+          <Description>Properties...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Push...">
         <Item>
           <IdeaActionID>Vcs.Push</IdeaActionID>
@@ -118,7 +126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Session'">
