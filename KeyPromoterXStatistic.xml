@@ -185,6 +185,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '20576:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '20576:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '21308:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -238,6 +246,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '34528:Install'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '3452:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '3452:w3wp'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
