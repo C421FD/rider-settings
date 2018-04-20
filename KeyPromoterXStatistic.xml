@@ -22,7 +22,7 @@
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -166,7 +166,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+;, R' or 'Ctrl+;, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -334,7 +334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SungeroServer.WebAPI.SelfHost'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop Execution">
