@@ -89,6 +89,14 @@
           <Count>160</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Inline...">
+        <Item>
+          <IdeaActionID>Inline</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+N'</ShortCut>
+          <Description>Inline...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="NuGet">
         <Item>
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
