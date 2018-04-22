@@ -17,6 +17,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build">
+        <Item>
+          <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Build</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Solution">
         <Item>
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Properties...</Description>
-          <Count>26</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
