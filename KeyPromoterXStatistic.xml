@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>236</Count>
+          <Count>240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -273,6 +273,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '19784:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '19784:w3wp'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '19800:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -377,6 +385,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '2840:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '2840:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '29504:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -478,7 +494,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>45</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
@@ -518,7 +534,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
