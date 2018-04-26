@@ -1,4 +1,7 @@
 <keymap version="1" name="Rider copy" parent="Rider">
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="ctrl alt end" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
   </action>
