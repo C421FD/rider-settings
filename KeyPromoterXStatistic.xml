@@ -33,6 +33,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse doc comments">
+        <Item>
+          <IdeaActionID>CollapseDocComments</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+End'</ShortCut>
+          <Description>Collapse doc comments</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>262</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
