@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>365</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -190,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run All Tests from Solution">
@@ -558,7 +558,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>29</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Session'">
