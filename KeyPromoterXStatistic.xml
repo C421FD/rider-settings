@@ -14,7 +14,7 @@
           <IdeaActionID>XDebugger.AttachToLocalProcess</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F5'</ShortCut>
           <Description>Attach to Local Process...</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -575,6 +575,22 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '8652:w3wp'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '9048:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '9048:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '9492:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '9492:w3wp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '9980:w3wp'">
