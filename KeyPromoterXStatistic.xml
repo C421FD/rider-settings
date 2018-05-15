@@ -30,7 +30,7 @@
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse doc comments">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>468</Count>
+          <Count>488</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -551,6 +551,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '34608:w3wp'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '6240:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '6240:w3wp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '6884:w3wp'">
