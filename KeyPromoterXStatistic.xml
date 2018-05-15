@@ -30,7 +30,7 @@
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>42</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse doc comments">
@@ -62,7 +62,7 @@
           <IdeaActionID>RiderUnitTestNewSessionAction</IdeaActionID>
           <ShortCut>'Ctrl+;, N' or 'Ctrl+;, Ctrl+N'</ShortCut>
           <Description>Create New Session</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>488</Count>
+          <Count>492</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -670,7 +670,7 @@
           <IdeaActionID>RiderUnitTestSessionAbortAction</IdeaActionID>
           <ShortCut>'Ctrl+;, S' or 'Ctrl+;, Ctrl+S'</ShortCut>
           <Description>Stop Execution</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
