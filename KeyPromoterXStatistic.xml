@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>882</Count>
+          <Count>883</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -761,6 +761,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '39460:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '39460:w3wp'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '41932:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -926,7 +934,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>116</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
