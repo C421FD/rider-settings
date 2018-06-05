@@ -150,7 +150,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -935,6 +935,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '41396:w3wp'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '4180:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '4180:w3wp'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '41932:w3wp'">
