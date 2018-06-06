@@ -9,6 +9,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Append Tests to Session">
+        <Item>
+          <IdeaActionID>RiderUnitTestAppendTestsAction</IdeaActionID>
+          <ShortCut>'Ctrl+;, A' or 'Ctrl+;, Ctrl+A'</ShortCut>
+          <Description>Append Tests to Session</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Attach to Local Process...">
         <Item>
           <IdeaActionID>XDebugger.AttachToLocalProcess</IdeaActionID>
@@ -110,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1038</Count>
+          <Count>1045</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -254,7 +262,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+;, R' or 'Ctrl+;, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
