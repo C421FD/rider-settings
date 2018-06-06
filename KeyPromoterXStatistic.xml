@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1036</Count>
+          <Count>1038</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -198,7 +198,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Bench'">
@@ -254,7 +254,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+;, R' or 'Ctrl+;, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -1185,12 +1185,20 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'failed'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'failed'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop Execution">
         <Item>
           <IdeaActionID>RiderUnitTestSessionAbortAction</IdeaActionID>
           <ShortCut>'Ctrl+;, S' or 'Ctrl+;, Ctrl+S'</ShortCut>
           <Description>Stop Execution</Description>
-          <Count>12</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
