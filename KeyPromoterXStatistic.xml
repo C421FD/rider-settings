@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1052</Count>
+          <Count>1054</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>RiderUnitTestSessionAbortAction</IdeaActionID>
           <ShortCut>'Ctrl+;, S' or 'Ctrl+;, Ctrl+S'</ShortCut>
           <Description>Stop Execution</Description>
-          <Count>23</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
