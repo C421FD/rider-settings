@@ -1190,7 +1190,7 @@
           <IdeaActionID>RiderUnitTestSessionAbortAction</IdeaActionID>
           <ShortCut>'Ctrl+;, S' or 'Ctrl+;, Ctrl+S'</ShortCut>
           <Description>Stop Execution</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
