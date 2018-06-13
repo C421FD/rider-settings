@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Default'</Description>
-          <Count>101</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SungeroClient'">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1215</Count>
+          <Count>1224</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -166,7 +166,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -214,7 +214,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -857,6 +857,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '24972:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '24972:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '25660:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -945,6 +953,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '29520:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '29520:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '2964:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -959,6 +975,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '30188:w3wp'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '30972:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '30972:w3wp'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '34256:w3wp'">
