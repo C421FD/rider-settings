@@ -13,12 +13,30 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
+          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
+          <option name="userId" value="a5d3c514-e27a-4677-ba7f-80f81411d1ea" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;c9226328-79fe-4d83-ae53-493dd828508e&quot;,&quot;name&quot;:&quot;IS-Builder8&quot;,&quot;url&quot;:&quot;https://vrpitfs.comp.npo/_apis/projectCollections/c9226328-79fe-4d83-ae53-493dd828508e&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;b9da89da-be0f-4aa0-987f-fe4b8f25299b&quot;,&quot;name&quot;:&quot;Kotlin&quot;,&quot;revision&quot;:7586617,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://vrpitfs.comp.npo/IS-Builder8/_apis/projects/b9da89da-be0f-4aa0-987f-fe4b8f25299b&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;2b638543-1f67-43c6-a923-aabae0984c08&quot;,&quot;name&quot;:&quot;Sungero&quot;,&quot;remoteUrl&quot;:&quot;https://vrpitfs.comp.npo/IS-Builder8/Kotlin/_git/Sungero&quot;,&quot;url&quot;:&quot;https://vrpitfs.comp.npo/IS-Builder8/_apis/git/repositories/2b638543-1f67-43c6-a923-aabae0984c08&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;b9da89da-be0f-4aa0-987f-fe4b8f25299b&quot;,&quot;name&quot;:&quot;Kotlin&quot;,&quot;revision&quot;:7586617,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://vrpitfs.comp.npo/IS-Builder8/_apis/projects/b9da89da-be0f-4aa0-987f-fe4b8f25299b&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
           <option name="uri" value="http://w378s8:8080/tfs/IS-Builder8/AutoTests/_git/LoadTest" />
           <option name="serverUri" value="http://w378s8:8080/tfs" />
           <option name="userId" value="a5d3c514-e27a-4677-ba7f-80f81411d1ea" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;c9226328-79fe-4d83-ae53-493dd828508e&quot;,&quot;name&quot;:&quot;IS-Builder8&quot;,&quot;url&quot;:&quot;http://w378s8:8080/tfs/_apis/projectCollections/c9226328-79fe-4d83-ae53-493dd828508e&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Автотесты&quot;,&quot;id&quot;:&quot;58be1e55-44da-43df-a0ea-c00b34bed8ba&quot;,&quot;name&quot;:&quot;AutoTests&quot;,&quot;revision&quot;:7586539,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://w378s8:8080/tfs/IS-Builder8/_apis/projects/58be1e55-44da-43df-a0ea-c00b34bed8ba&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;4d099394-5fdb-4e27-be98-1d8b7ac25fd3&quot;,&quot;name&quot;:&quot;LoadTest&quot;,&quot;remoteUrl&quot;:&quot;http://w378s8:8080/tfs/IS-Builder8/AutoTests/_git/LoadTest&quot;,&quot;url&quot;:&quot;http://w378s8:8080/tfs/IS-Builder8/_apis/git/repositories/4d099394-5fdb-4e27-be98-1d8b7ac25fd3&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Автотесты&quot;,&quot;id&quot;:&quot;58be1e55-44da-43df-a0ea-c00b34bed8ba&quot;,&quot;name&quot;:&quot;AutoTests&quot;,&quot;revision&quot;:7586539,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://w378s8:8080/tfs/IS-Builder8/_apis/projects/58be1e55-44da-43df-a0ea-c00b34bed8ba&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://vrpitfs.comp.npo/IS-Builder8/Kotlin/_git/Sungero" />
+          <option name="serverUri" value="http://vrpitfs.comp.npo" />
+          <option name="userId" value="a5d3c514-e27a-4677-ba7f-80f81411d1ea" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;c9226328-79fe-4d83-ae53-493dd828508e&quot;,&quot;name&quot;:&quot;IS-Builder8&quot;,&quot;url&quot;:&quot;https://vrpitfs.comp.npo/_apis/projectCollections/c9226328-79fe-4d83-ae53-493dd828508e&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;b9da89da-be0f-4aa0-987f-fe4b8f25299b&quot;,&quot;name&quot;:&quot;Kotlin&quot;,&quot;revision&quot;:7586617,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://vrpitfs.comp.npo/IS-Builder8/_apis/projects/b9da89da-be0f-4aa0-987f-fe4b8f25299b&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;2b638543-1f67-43c6-a923-aabae0984c08&quot;,&quot;name&quot;:&quot;Sungero&quot;,&quot;remoteUrl&quot;:&quot;https://vrpitfs.comp.npo/IS-Builder8/Kotlin/_git/Sungero&quot;,&quot;url&quot;:&quot;https://vrpitfs.comp.npo/IS-Builder8/_apis/git/repositories/2b638543-1f67-43c6-a923-aabae0984c08&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;b9da89da-be0f-4aa0-987f-fe4b8f25299b&quot;,&quot;name&quot;:&quot;Kotlin&quot;,&quot;revision&quot;:7586617,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://vrpitfs.comp.npo/IS-Builder8/_apis/projects/b9da89da-be0f-4aa0-987f-fe4b8f25299b&quot;}}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
@@ -124,6 +142,10 @@
         <PropertyState>
           <option name="name" value="repoRoot" />
           <option name="value" value="C:\Users\Vanyushkin_MV" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//_tfs_last_used_url_" />
         </PropertyState>
       </array>
     </option>
