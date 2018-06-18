@@ -1537,6 +1537,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TooManyParallelCpuBoundOperations'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TooManyParallelCpuBoundOperations'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'failed'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
