@@ -262,7 +262,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TooManyParallelCpuBo...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'TooManyParallelCpuBo...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run All Tests from Solution">
@@ -1478,7 +1486,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>181</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Failed test'">
