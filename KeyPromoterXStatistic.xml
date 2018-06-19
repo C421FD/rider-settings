@@ -286,7 +286,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'Ctrl+;, Y' or 'Ctrl+;, Ctrl+Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
