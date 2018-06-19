@@ -22,7 +22,7 @@
           <IdeaActionID>XDebugger.AttachToLocalProcess</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F5'</ShortCut>
           <Description>Attach to Local Process...</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1311</Count>
+          <Count>1312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -1095,6 +1095,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '3492:w3wp'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '3844:SungeroClient'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '3844:SungeroClient'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '3856:w3wp'">
