@@ -1609,6 +1609,14 @@
           <Count>45</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
