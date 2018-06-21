@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1324</Count>
+          <Count>1331</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -319,6 +319,14 @@
           <ShortCut>'Ctrl+;, R' or 'Ctrl+;, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'Ctrl+S'</ShortCut>
+          <Description>Save All</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
