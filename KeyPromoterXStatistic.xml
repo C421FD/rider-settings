@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1386</Count>
+          <Count>1388</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -1599,6 +1599,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'EntityResultShouldBeUnmarshalledCorrectly #2'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EntityResultShouldBeUnmarshalledCorrectly'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'EntityResultShouldBeUnmarshalledCorrectly'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Failed test'">
