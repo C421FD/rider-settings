@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1389</Count>
+          <Count>1396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -310,7 +310,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'Ctrl+;, Y' or 'Ctrl+;, Ctrl+Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -1625,6 +1625,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RemoteFunctionMarshallingTests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RemoteFunctionMarshallingTests'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Session'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1702,7 +1710,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>219</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
