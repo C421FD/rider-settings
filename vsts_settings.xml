@@ -137,7 +137,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="WorkItemsTab.autoRefresh" />
-          <option name="value" value="false" />
+          <option name="value" value="true" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="repoRoot" />
