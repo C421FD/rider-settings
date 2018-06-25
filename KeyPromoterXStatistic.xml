@@ -38,7 +38,7 @@
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cancel">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1396</Count>
+          <Count>1408</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -1630,7 +1630,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'RemoteFunctionMarshallingTests'</Description>
-          <Count>5</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Session'">
