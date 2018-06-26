@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1450</Count>
+          <Count>1455</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -519,6 +519,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '16892:w3wp'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '17160:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '17160:w3wp'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '1740:w3wp'">
