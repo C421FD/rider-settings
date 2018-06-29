@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1496</Count>
+          <Count>1498</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -142,7 +142,7 @@
           <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Edit...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -679,6 +679,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '19724:w3wp'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '19744:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '19744:w3wp'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '19784:w3wp'">
@@ -1806,7 +1814,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>254</Count>
+          <Count>255</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
@@ -1854,7 +1862,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
     </option>
