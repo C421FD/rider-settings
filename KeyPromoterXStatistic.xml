@@ -38,7 +38,7 @@
           <IdeaActionID>BuildSolutionAction</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Solution</Description>
-          <Count>95</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cancel">
@@ -1070,6 +1070,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '24972:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '25340:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '25340:w3wp'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
