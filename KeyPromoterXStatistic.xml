@@ -1625,6 +1625,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '8388:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '8388:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '8492:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1838,7 +1846,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>256</Count>
+          <Count>257</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
