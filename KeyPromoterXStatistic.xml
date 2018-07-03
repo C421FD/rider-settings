@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1547</Count>
+          <Count>1550</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -1038,7 +1038,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '24320:w3wp'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '24328:SungeroClient'">
@@ -1870,7 +1870,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>280</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
@@ -1895,6 +1895,14 @@
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
