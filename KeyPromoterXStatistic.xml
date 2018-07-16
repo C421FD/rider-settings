@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1652</Count>
+          <Count>1656</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -2086,7 +2086,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>335</Count>
+          <Count>339</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
