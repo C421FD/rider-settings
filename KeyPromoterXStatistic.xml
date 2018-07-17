@@ -1422,7 +1422,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '30352:w3wp'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '30972:w3wp'">
@@ -2142,7 +2142,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>348</Count>
+          <Count>350</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
