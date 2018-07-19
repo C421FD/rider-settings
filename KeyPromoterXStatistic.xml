@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Default'</Description>
-          <Count>153</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SungeroClient'">
@@ -2054,7 +2054,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>200</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EntityResultShouldBeUnmarshalledCorrectly #2'">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>357</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
