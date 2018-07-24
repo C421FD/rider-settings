@@ -257,6 +257,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '28024:w3wp'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '28024:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '30352:w3wp'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>112</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1390,7 +1398,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '28024:w3wp'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '28064:w3wp'">
