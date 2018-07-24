@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1707</Count>
+          <Count>1714</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -143,6 +143,14 @@
           <ShortCut>'F2'</ShortCut>
           <Description>Edit...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Enter Full Screen">
+        <Item>
+          <IdeaActionID>ToggleFullScreen</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+9'</ShortCut>
+          <Description>Enter Full Screen</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -342,7 +350,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>76</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SungeroClient'">
@@ -2118,7 +2126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>211</Count>
+          <Count>216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EntityResultShouldBeUnmarshalledCorrectly #2'">
