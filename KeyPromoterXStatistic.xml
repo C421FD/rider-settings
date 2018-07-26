@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Default'</Description>
-          <Count>166</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SungeroClient'">
@@ -295,6 +295,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '2680:w3wp'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '27184:w3wp'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '27184:w3wp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '28024:w3wp'">
@@ -1470,7 +1478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '27184:w3wp'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '27260:w3wp'">
@@ -2334,7 +2342,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>395</Count>
+          <Count>396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
