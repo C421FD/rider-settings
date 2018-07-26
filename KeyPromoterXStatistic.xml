@@ -1465,6 +1465,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '27184:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '27184:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '27260:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
