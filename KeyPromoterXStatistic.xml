@@ -22,7 +22,7 @@
           <IdeaActionID>XDebugger.AttachToLocalProcess</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F5'</ShortCut>
           <Description>Attach to Local Process...</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -102,7 +102,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Default'</Description>
-          <Count>167</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SungeroClient'">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1738</Count>
+          <Count>1742</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -198,7 +198,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -337,6 +337,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '28908:w3wp'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '28908:w3wp'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '30212:w3wp'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -359,6 +367,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun '32996:w3wp'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '33844:w3wp'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '33844:w3wp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '53728:w3wp'">
@@ -398,7 +414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>133</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -614,6 +630,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '13064:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '13328:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '13328:w3wp'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1601,6 +1625,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '28908:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '28908:w3wp'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '29000:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1694,6 +1726,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '32996:w3wp'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '33844:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '33844:w3wp'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -2430,7 +2470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>423</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
