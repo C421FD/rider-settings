@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1762</Count>
+          <Count>1773</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -486,7 +486,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'Ctrl+;, Y' or 'Ctrl+;, Ctrl+Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
