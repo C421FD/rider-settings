@@ -486,7 +486,7 @@
           <IdeaActionID>RiderUnitTestRunCurrentSessionAction</IdeaActionID>
           <ShortCut>'Ctrl+;, Y' or 'Ctrl+;, Ctrl+Y'</ShortCut>
           <Description>Run Current Session</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -2406,7 +2406,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Session'</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SpecialFoldersCacheImplementerTests'">
