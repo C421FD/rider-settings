@@ -454,7 +454,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>102</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SungeroClient'">
@@ -2374,7 +2374,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>240</Count>
+          <Count>250</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EntityResultShouldBeUnmarshalledCorrectly #2'">
