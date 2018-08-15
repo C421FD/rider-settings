@@ -22,7 +22,7 @@
           <IdeaActionID>XDebugger.AttachToLocalProcess</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F5'</ShortCut>
           <Description>Attach to Local Process...</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -574,7 +574,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '10772:w3wp'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '10996:w3wp'">
