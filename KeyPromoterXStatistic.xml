@@ -305,6 +305,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '21444:w3wp'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '21444:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun '23896:w3wp'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1273,6 +1281,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '21444:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '21444:w3wp'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '21544:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1286,6 +1302,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '21592:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '21692:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '21692:w3wp'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2606,7 +2630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>459</Count>
+          <Count>460</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
@@ -2662,7 +2686,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
     </option>
