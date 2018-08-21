@@ -486,7 +486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>158</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1599,6 +1599,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '24536:w3wp'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '24612:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '24612:w3wp'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '24808:w3wp'">
