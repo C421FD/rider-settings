@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1842</Count>
+          <Count>1848</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -494,7 +494,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>159</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1489,6 +1489,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '23688:w3wp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '23688:w3wp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '23788:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2217,6 +2225,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop '4464:SungeroClient'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '4464:SungeroClient'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '44680:w3wp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2726,7 +2742,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>487</Count>
+          <Count>488</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Testing Quick List...">
